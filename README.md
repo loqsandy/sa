@@ -1,2 +1,2 @@
-# sa
+# Expense.tracker
 san
